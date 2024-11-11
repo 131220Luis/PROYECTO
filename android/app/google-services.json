@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1078683652646",
+    "firebase_url": "https://proyectobigotesbd-default-rtdb.firebaseio.com",
+    "project_id": "proyectobigotesbd",
+    "storage_bucket": "proyectobigotesbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078683652646:android:d96181a0c49344f964cce7",
+        "android_client_info": {
+          "package_name": "edu.srpato.proyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078683652646-42abmnmausva6u65531i2amgkbqi186p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.srpato.proyecto",
+            "certificate_hash": "295d3660fe000c5f90964a18169586e6f99e5d4b"
+          }
+        },
+        {
+          "client_id": "1078683652646-r45nqmgq2kfrbpr17l7lde2346llqa1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeH3HQsDbi5QjdILEBoqBVzL3TCfxMWGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078683652646-r45nqmgq2kfrbpr17l7lde2346llqa1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
